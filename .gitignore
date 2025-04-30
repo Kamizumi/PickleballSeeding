@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+#Credentials
+token.pickle
+credentials.json
+
 # Distribution / packaging
 .Python
 build/
